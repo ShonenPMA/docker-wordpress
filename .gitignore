@@ -1,3 +1,5 @@
 .env
 *.yaml
 !docker-compose.yaml
+docker/nginx/log/*.log
+docker/nginx/certs/*.pem
